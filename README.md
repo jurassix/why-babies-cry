@@ -15,3 +15,9 @@ P.S: Feel free to [add](https://github.com/hemanth/why-babies-cry/edit/master/RE
 * Gas. 
 * Acidity. 
 * Gasidity.
+* Someone else is crying.
+* Cold.
+* Hot.
+* New Tooth.
+* Car trip.
+* Loud Noise.
